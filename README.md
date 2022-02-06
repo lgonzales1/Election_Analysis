@@ -23,6 +23,10 @@ We received the data via a .CSV file and utlized Python to code the calculations
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
   * Diana DeGette won the election with 272,892 votes (73.8% of total votes). 
 
+*Visual representation after analysis* 
+
+![Alt text](https://raw.githubusercontent.com/lgonzales1/election_analysis/main/election_data.png)
+
 ## Election-Audit Summary
 
 By using Python, this code can be used in analyzing other elections. For example, the script can be modified from a state election to a national election. In this instance, the county would be replaced with state. 
